@@ -185,7 +185,15 @@ OBJETIVO:
 - Crescimento: focar em skills avançadas
 \
 
----
+
+
+
+
+--- FIM DO PROMPT
+
+
+
+
 
 # 🚀 Roadmap de Carreira em Tecnologia  
 **Carreira escolhida:** Dados e Analista de Projetos de TI  
