@@ -195,7 +195,10 @@ OBJETIVO:
 **Preferência:** Pessoas, Dados, Projetos de TI  
 **Interesse:** Inteligência Artificial  
 
+
 ---
+
+
 
 ## 🧩 Visão do Dia a Dia  
 
